@@ -27,7 +27,6 @@ private:
 public:
 	Voiture(string _marque, unsigned int puiss, unsigned int kilo, string _type);
 	string getType();
-	void setType();
 
 };
 
